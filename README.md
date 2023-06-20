@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaScript<br>👯 I’m looking to collaborate on fullstack development<br>🤝 I’m looking for help with improve myself<br>🌱 I’m currently learning frontend development<br>
+🔭 I’m currently working on JavaScript<br>👯 I’m looking to collaborate on fullstack development<br>🤝 I’m looking for help with improve myself for full stack development<br>🌱 I’m currently learning frontend development<br>
 
 
 ## 🌐 Socials:
