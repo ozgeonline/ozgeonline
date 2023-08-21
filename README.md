@@ -1,3 +1,18 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <h4 align="left">🌱 I am currently learning fullstack development<br>🔭 I'm currently working on JavaScript and JS. frameworks<br>✔️ I have completed C#, Linq, SQL, Entity Framework trainings at the beginner level.<br>✨ Trainings I am continuing: Node.js & Express.js , React.js, APIs, MongoDB<br>👯 I want to collaborate on full stack development<br>🤝 Looking for help improving myself for full stack development<br>❤️My goal is to keep myself up to date and become a well-equipped web development expert in the software journey I started.</h4>
 
 ###
@@ -66,32 +81,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-
-
-###
-
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
-
 
 
 
