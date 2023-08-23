@@ -136,7 +136,12 @@ https://ozgeonline.github.io/
     <tr>
       <td>07</td>
       <td><a href="#">Content Placeholder</a></td>
-      <td><a href="https://ozgeonline.github.io/Content-Placeholder/index.html" target="_blank">Live Demo</a></td>
+      <td><a href="https://ozgeonline.github.io/Content-Placeholder/index.html">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td><a href="#">Double Click Heart</a></td>
+      <td><a href="https://ozgeonline.github.io/doubleClick-radioBtn/index.html">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
