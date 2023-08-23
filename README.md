@@ -128,6 +128,11 @@ https://ozgeonline.github.io/
       <td><a href="#">Animated Navigation</a></td>
       <td><a href="https://ozgeonline.github.io/Animated-Navigation/index.html">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>06</td>
+      <td><a href="#">Blurry Loading</a></td>
+      <td><a href="https://ozgeonline.github.io/Blurry-Loading/index.html">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
