@@ -133,6 +133,11 @@ https://ozgeonline.github.io/
       <td><a href="#">Blurry Loading</a></td>
       <td><a href="https://ozgeonline.github.io/Blurry-Loading/index.html">Live Demo</a></td>
     </tr>
+    <tr>
+      <td>07</td>
+      <td><a href="#">Content Placeholder</a></td>
+      <td><a href="https://ozgeonline.github.io/Content-Placeholder/index.html">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
