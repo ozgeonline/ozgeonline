@@ -13,8 +13,6 @@
   />
 </picture>
 
-<a href="https://ozgeonline.github.io/" >Projects Demo Live</a>
-<br>
 
 <h4 align="left">🌱 I am currently learning fullstack development<br>🔭 I'm currently working on JavaScript and JS. frameworks<br>✔️ I have completed C#, Linq, SQL, Entity Framework trainings at the beginner level.<br>✨ Trainings I am continuing: Node.js & Express.js , React.js, APIs, MongoDB<br>👯 I want to collaborate on full stack development<br>🤝 Looking for help improving myself for full stack development<br>❤️My goal is to keep myself up to date and become a well-equipped web development expert in the software journey I started.</h4>
 
