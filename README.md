@@ -145,7 +145,7 @@ https://ozgeonline.github.io/
     </tr>
      <tr>
       <td>09</td>
-      <td><a href="#">tTravel Journal</a></td>
+      <td><a href="#">Travel Journal with React.js</a></td>
       <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
     </tr>
   </tbody>
