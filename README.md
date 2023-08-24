@@ -143,6 +143,11 @@ https://ozgeonline.github.io/
       <td><a href="#">Double Click Heart</a></td>
       <td><a href="https://ozgeonline.github.io/doubleClick-radioBtn/index.html">Live Demo</a></td>
     </tr>
+     <tr>
+      <td>09</td>
+      <td><a href="#">tTravel Journal</a></td>
+      <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
