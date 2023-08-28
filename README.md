@@ -105,8 +105,8 @@ https://ozgeonline.github.io/
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="#">Rotating Navigator</a></td>
-      <td><a href="https://ozgeonline.github.io/Rotating_Navigation/index.html">Live Demo</a></td>
+      <td><a href="#">Trendyol Clone with React.js</a></td>
+      <td><a href="https://ozgeonline.github.io/trendyol-clone/">Live Demo</a></td>
     </tr>
     <tr>
       <td>02</td>
@@ -145,6 +145,11 @@ https://ozgeonline.github.io/
     </tr>
      <tr>
       <td>09</td>
+      <td><a href="#">Travel Journal with React.js</a></td>
+      <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td><a href="#">Travel Journal with React.js</a></td>
       <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
     </tr>
