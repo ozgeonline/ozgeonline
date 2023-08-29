@@ -115,8 +115,8 @@ https://ozgeonline.github.io/
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="#">3D Boxes</a></td>
-      <td><a href="https://ozgeonline.github.io/3d-boxes-background/index.html">Live Demo</a></td>
+      <td><a href="#">Dark & Light Toggle with React.js</a></td>
+      <td><a href="https://ozgeonline.github.io/my-app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>04</td>
@@ -150,8 +150,8 @@ https://ozgeonline.github.io/
     </tr>
     <tr>
       <td>10</td>
-      <td><a href="#">Travel Journal with React.js</a></td>
-      <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
+      <td><a href="#">3D Boxes</a></td>
+      <td><a href="https://ozgeonline.github.io/3d-boxes-background/index.html">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
