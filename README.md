@@ -120,8 +120,8 @@ https://ozgeonline.github.io/
     </tr>
     <tr>
       <td>04</td>
-      <td><a href="#">Animated Countdown</a></td>
-      <td><a href="https://ozgeonline.github.io/Animated-Countdown/index.html">Live Demo</a></td>
+      <td><a href="#">Tenzies Game with React.js</a></td>
+      <td><a href="https://ozgeonline.github.io/tenzies-game-react/">Live Demo</a></td>
     </tr>
     <tr>
       <td>05</td>
@@ -152,6 +152,11 @@ https://ozgeonline.github.io/
       <td>10</td>
       <td><a href="#">3D Boxes</a></td>
       <td><a href="https://ozgeonline.github.io/3d-boxes-background/index.html">Live Demo</a></td>
+    </tr>
+     <tr>
+      <td>11</td>
+      <td><a href="#">Animated Countdown</a></td>
+      <td><a href="https://ozgeonline.github.io/Animated-Countdown/index.html">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
