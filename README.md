@@ -125,8 +125,8 @@ https://ozgeonline.github.io/
     </tr>
     <tr>
       <td>05</td>
-      <td><a href="#">Animated Navigation</a></td>
-      <td><a href="https://ozgeonline.github.io/Animated-Navigation/index.html">Live Demo</a></td>
+      <td><a href="#">Meme Generator</a></td>
+      <td><a href="https://ozgeonline.github.io/meme-generator/">Live Demo</a></td>
     </tr>
     <tr>
       <td>06</td>
@@ -157,6 +157,11 @@ https://ozgeonline.github.io/
       <td>11</td>
       <td><a href="#">Animated Countdown</a></td>
       <td><a href="https://ozgeonline.github.io/Animated-Countdown/index.html">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td><a href="#">Animated Navigation</a></td>
+      <td><a href="https://ozgeonline.github.io/Animated-Navigation/index.html">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
