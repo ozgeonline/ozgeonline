@@ -125,7 +125,7 @@ https://ozgeonline.github.io/
     </tr>
     <tr>
       <td>05</td>
-      <td><a href="#">Meme Generator</a></td>
+      <td><a href="#">Meme Generator with React.js</a></td>
       <td><a href="https://ozgeonline.github.io/meme-generator/">Live Demo</a></td>
     </tr>
     <tr>
