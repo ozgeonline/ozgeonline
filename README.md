@@ -130,8 +130,8 @@ https://ozgeonline.github.io/
     </tr>
     <tr>
       <td>06</td>
-      <td><a href="#">Blurry Loading</a></td>
-      <td><a href="https://ozgeonline.github.io/Blurry-Loading/index.html">Live Demo</a></td>
+      <td><a href="#">Note App with React.js</a></td>
+      <td><a href="https://ozgeonline.github.io/to-do-list-spread-oprator/">Live Demo</a></td>
     </tr>
     <tr>
       <td>07</td>
@@ -162,6 +162,11 @@ https://ozgeonline.github.io/
       <td>12</td>
       <td><a href="#">Animated Navigation</a></td>
       <td><a href="https://ozgeonline.github.io/Animated-Navigation/index.html">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td><a href="#">Blurry Loading</a></td>
+      <td><a href="https://ozgeonline.github.io/Blurry-Loading/index.html">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
