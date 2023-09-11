@@ -110,8 +110,8 @@ https://ozgeonline.github.io/
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="#">Blackjack</a></td>
-      <td><a href="https://ozgeonline.github.io/Blackjack_Game/index.html">Live Demo</a></td>
+      <td><a href="#">GPT4 with React.js</a></td>
+      <td><a href="https://astonishing-bunny-9f3d86.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>03</td>
@@ -167,6 +167,11 @@ https://ozgeonline.github.io/
       <td>13</td>
       <td><a href="#">Blurry Loading</a></td>
       <td><a href="https://ozgeonline.github.io/Blurry-Loading/index.html">Live Demo</a></td>
+    </tr>
+     <tr>
+      <td>14</td>
+      <td><a href="#">Blackjack</a></td>
+      <td><a href="https://ozgeonline.github.io/Blackjack_Game/index.html">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
