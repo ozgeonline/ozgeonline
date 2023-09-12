@@ -103,7 +103,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>#</td>
+      <td></td>
       <td><a href="#">vanilla Javascript Projects</a></td>
       <td><a href="https://ozgeonline.github.io/">Click for Projects</a></td>
     </tr>
@@ -123,73 +123,68 @@
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="#">Trendyol Clone with React.js</a></td>
+      <td><a href="#">Trendyol Clone</a></td>
       <td><a href="https://ozgeonline.github.io/trendyol-clone/">Live Demo</a></td>
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="#">GPT4 with React.js</a></td>
+      <td><a href="#">GPT4</a></td>
       <td><a href="https://astonishing-bunny-9f3d86.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="#">Dark & Light Toggle with React.js</a></td>
+      <td><a href="#">Dark & Light Toggle</a></td>
       <td><a href="https://ozgeonline.github.io/my-app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>04</td>
-      <td><a href="#">Tenzies Game with React.js</a></td>
+      <td><a href="#">Tenzies Game</a></td>
       <td><a href="https://ozgeonline.github.io/tenzies-game-react/">Live Demo</a></td>
     </tr>
     <tr>
       <td>05</td>
-      <td><a href="#">Meme Generator with React.js</a></td>
+      <td><a href="#">Meme Generator</a></td>
       <td><a href="https://ozgeonline.github.io/meme-generator/">Live Demo</a></td>
     </tr>
     <tr>
       <td>06</td>
-      <td><a href="#">Note App with React.js</a></td>
+      <td><a href="#">Note App</a></td>
       <td><a href="https://ozgeonline.github.io/to-do-list-spread-oprator/">Live Demo</a></td>
     </tr>
-    <tr>
-      <td>07</td>
-      <td><a href="#">Content Placeholder</a></td>
-      <td><a href="https://ozgeonline.github.io/Content-Placeholder/index.html">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
-    </tr>
      <tr>
-      <td></td>
+      <td>07</td>
       <td><a href="#">Travel Journal with React.js</a></td>
       <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
     </tr>
     <tr>
       <td></td>
       <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
-    </tr>
-     <tr>
-      <td></td>
-      <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
+      <td><a href=""></a></td>
     </tr>
     <tr>
       <td></td>
       <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
+      <td><a href=""></a></td>
     </tr>
      <tr>
       <td></td>
       <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href=""></a></td>
+    </tr>
+     <tr>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href=""></a></td>
     </tr>
   </tbody>
 </table>
