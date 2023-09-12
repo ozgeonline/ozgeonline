@@ -92,7 +92,25 @@
 
 ###
 
-https://ozgeonline.github.io/
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th class="head">Javascript Projects</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#</td>
+      <td><a href="#">vanilla Javascript Projects</a></td>
+      <td><a href="https://ozgeonline.github.io/">Click for Projects</a></td>
+    </tr>
+  </tbody>
+</table>
+
+###
 
 <table>
   <thead>
