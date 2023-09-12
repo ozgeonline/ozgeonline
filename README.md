@@ -98,7 +98,7 @@ https://ozgeonline.github.io/
   <thead>
     <tr>
       <th>#</th>
-      <th class="head">Project</th>
+      <th class="head">React.js Projects</th>
       <th>Live Demo</th>
     </tr>
   </thead>
@@ -139,39 +139,39 @@ https://ozgeonline.github.io/
       <td><a href="https://ozgeonline.github.io/Content-Placeholder/index.html">Live Demo</a></td>
     </tr>
     <tr>
-      <td>08</td>
-      <td><a href="#">Double Click Heart</a></td>
-      <td><a href="https://ozgeonline.github.io/doubleClick-radioBtn/index.html">Live Demo</a></td>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
      <tr>
-      <td>09</td>
+      <td></td>
       <td><a href="#">Travel Journal with React.js</a></td>
       <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
     </tr>
     <tr>
-      <td>10</td>
-      <td><a href="#">3D Boxes</a></td>
-      <td><a href="https://ozgeonline.github.io/3d-boxes-background/index.html">Live Demo</a></td>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
      <tr>
-      <td>11</td>
-      <td><a href="#">Animated Countdown</a></td>
-      <td><a href="https://ozgeonline.github.io/Animated-Countdown/index.html">Live Demo</a></td>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
     <tr>
-      <td>12</td>
-      <td><a href="#">Animated Navigation</a></td>
-      <td><a href="https://ozgeonline.github.io/Animated-Navigation/index.html">Live Demo</a></td>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
     <tr>
-      <td>13</td>
-      <td><a href="#">Blurry Loading</a></td>
-      <td><a href="https://ozgeonline.github.io/Blurry-Loading/index.html">Live Demo</a></td>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
      <tr>
-      <td>14</td>
-      <td><a href="#">Blackjack</a></td>
-      <td><a href="https://ozgeonline.github.io/Blackjack_Game/index.html">Live Demo</a></td>
+      <td></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
