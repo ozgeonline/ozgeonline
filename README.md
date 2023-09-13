@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="70" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="50" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
