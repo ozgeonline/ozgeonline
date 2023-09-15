@@ -59,7 +59,7 @@
   <tbody>
     <tr>
       <td>01</td>
-      <td><a href="#">Trendyol Clone</a></td>
+      <td><a href="#">Trendyol Clone (not finished yet)</a></td>
       <td><a href="https://ozgeonline.github.io/trendyol-clone/">Live Demo</a></td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td>04</td>
-      <td><a href="#">Tenzies Game</a></td>
+      <td><a href="#">Tenzies Game (not finished yet)</a></td>
       <td><a href="https://ozgeonline.github.io/tenzies-game-react/">Live Demo</a></td>
     </tr>
     <tr>
@@ -93,9 +93,9 @@
       <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td><a href="#"></a></td>
-      <td><a href=""></a></td>
+      <td>08</td>
+      <td><a href="#">3D Portfolio (not finished yet)</a></td>
+      <td><a href="https://master--gregarious-licorice-8ffa73.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td></td>
