@@ -89,7 +89,7 @@
     </tr>
      <tr>
       <td>07</td>
-      <td><a href="#">Travel Journal with React.js</a></td>
+      <td><a href="#">Travel Journal</a></td>
       <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
     </tr>
     <tr>
