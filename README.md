@@ -65,7 +65,7 @@
     <tr>
       <td>02</td>
       <td><a href="#">GPT4</a></td>
-      <td><a href="https://astonishing-bunny-9f3d86.netlify.app/">Live Demo</a></td>
+      <td><a href="https://gpt-4-react-project.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>03</td>
