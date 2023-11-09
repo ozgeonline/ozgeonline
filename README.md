@@ -100,7 +100,7 @@
     <tr>
       <td>09</td>
       <td><a href="#">3D iPhone</a></td>
-      <td><a href="https://gpt-4-react-project.netlify.app/">Live Demo</a></td>
+      <td><a href="https://3d-iphone14.netlify.app/">Live Demo</a></td>
     </tr>
      <tr>
       <td></td>
