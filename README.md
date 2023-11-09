@@ -95,7 +95,7 @@
     <tr>
       <td>08</td>
       <td><a href="#">3D Portfolio (not finished yet)</a></td>
-      <td><a href="https://gregarious-licorice-8ffa73.netlify.app/">Live Demo</a></td>
+      <td><a href="https://portfolio-react-three.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>09</td>
