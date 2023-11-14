@@ -2,7 +2,7 @@
 
 
 
-#    About Me: <img align="left" height="50" src="https://i.imgflip.com/65efzo.gif"  />
+#    About Me: 
 🌱 I completed my intermediate level frontend and backend training.<br>✨ My goal is to become a well-equipped web developer by specializing in Mern Stack.<br>✔️ I completed my beginner level C# training. I developed projects with Linq, SQL, Entity Framework<br>💻 The technology and skills I use for Frondend : CSS3, Javascript, Boostrap5, Tailwind, Sass, React.js, Figma, Canva<br>💻 The technology and skills I use for Backend :  Javascript, C#, Node.js , Express.js, MongoDB, NPM
 
 
@@ -145,6 +145,7 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img align="left" height="50" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 
