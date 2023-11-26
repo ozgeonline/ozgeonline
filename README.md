@@ -48,43 +48,43 @@
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="#">Dark & Light Toggle</a></td>
-      <td><a href="https://ozgeonline.github.io/my-app/">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td>04</td>
-      <td><a href="#">Tenzies Game (not finished yet)</a></td>
-      <td><a href="https://ozgeonline.github.io/tenzies-game-react/">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td>05</td>
-      <td><a href="#">Meme Generator</a></td>
-      <td><a href="https://ozgeonline.github.io/meme-generator/">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td>06</td>
-      <td><a href="#">Note App</a></td>
-      <td><a href="https://ozgeonline.github.io/to-do-list-spread-oprator/">Live Demo</a></td>
-    </tr>
-     <tr>
-      <td>07</td>
-      <td><a href="#">Travel Journal</a></td>
-      <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td>08</td>
       <td><a href="#">3D Portfolio (not finished yet)</a></td>
       <td><a href="https://portfolio-react-three.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
-      <td>09</td>
+      <td>04</td>
       <td><a href="#">3D iPhone</a></td>
       <td><a href="https://3d-iphone14.netlify.app/">Live Demo</a></td>
     </tr>
      <tr>
-      <td>10</td>
+      <td>05</td>
       <td><a href="#">Admin Dashboard</a></td>
       <td><a href="https://admin-dashboard-react-mui-chart.netlify.app/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>#</td>
+      <td><a href="#">Tenzies Game (not finished yet)</a></td>
+      <td><a href="https://ozgeonline.github.io/tenzies-game-react/">Live Demo</a></td>
+    </tr>
+     <tr>
+      <td>#</td>
+      <td><a href="#">Note App</a></td>
+      <td><a href="https://ozgeonline.github.io/to-do-list-spread-oprator/">Live Demo</a></td>
+    </tr>
+     <tr>
+      <td>#</td>
+      <td><a href="#">Travel Journal</a></td>
+      <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>#</td>
+      <td><a href="#">Meme Generator</a></td>
+      <td><a href="https://ozgeonline.github.io/meme-generator/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>#</td>
+      <td><a href="#">Dark & Light Toggle</a></td>
+      <td><a href="https://ozgeonline.github.io/my-app/">Live Demo</a></td>
     </tr>
     <tr>
       <td></td>
