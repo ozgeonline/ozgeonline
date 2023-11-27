@@ -31,7 +31,7 @@
   <thead>
     <tr>
       <th>#</th>
-      <th class="head">React.js Projects</th>
+      <th class="head">React & Next Projects</th>
       <th>Live Demo</th>
     </tr>
   </thead>
@@ -60,6 +60,11 @@
       <td>05</td>
       <td><a href="#">Admin Dashboard</a></td>
       <td><a href="https://admin-dashboard-react-mui-chart.netlify.app/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td><a href="#">X Clone</a></td>
+      <td><a href="">---</a></td>
     </tr>
     <tr>
       <td>#</td>
