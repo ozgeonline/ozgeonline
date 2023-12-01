@@ -64,7 +64,7 @@
     <tr>
       <td>06</td>
       <td><a href="#">X Clone</a></td>
-      <td><a href="">---</a></td>
+      <td><a href="https://x-clone-ozgeonlines-projects.vercel.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>#</td>
