@@ -67,6 +67,11 @@
       <td><a href="https://x-clone-ozgeonlines-projects.vercel.app/">Live Demo</a></td>
     </tr>
     <tr>
+      <td>07</td>
+      <td><a href="#">Netflix Clone</a></td>
+      <td><a href="https://netflix-next-clone-ozgeonlines-projects.vercel.app/">Live Demp</a></td>
+    </tr>
+    <tr>
       <td>#</td>
       <td><a href="#">Tenzies Game (not finished yet)</a></td>
       <td><a href="https://ozgeonline.github.io/tenzies-game-react/">Live Demo</a></td>
