@@ -69,7 +69,7 @@
     <tr>
       <td>07</td>
       <td><a href="#">Netflix Clone</a></td>
-      <td><a href="https://netflix-next-clone-ozgeonlines-projects.vercel.app/">Live Demo</a></td>
+      <td><a href="https://clone-netflix-one-tau.vercel.app/">Live Demo</a></td>
     </tr>
     <tr>
       <td>#</td>
