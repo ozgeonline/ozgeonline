@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
+<div display="flex">
     <table>
       <thead>
         <tr>
