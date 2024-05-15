@@ -96,13 +96,16 @@
 [![](https://visitcount.itsvg.in/api?id=ozgeonline&icon=9&color=1)](https://visitcount.itsvg.in)
 ---
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ozgeonline0o) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ozgeonline0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozgeonline) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ozgeonline) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22208441) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ozgeonline0) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ozgeonline0o) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ozgeonline0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ozgeonline) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zgeozge) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22208441) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ozgeonline0) 
 
 
-#    About Me: 
-🌱 I completed my intermediate level frontend and backend training.<br>✨ My goal is to become a well-equipped web developer by specializing in Mern Stack.<br>✔️ I completed my beginner level C# training. I developed projects with Linq, SQL, Entity Framework<br>💻 The technology and skills I use for Frondend : CSS3, Javascript, Boostrap5, Tailwind, Sass, React.js, Figma, Canva<br>💻 The technology and skills I use for Backend :  Javascript, C#, Node.js , Express.js, MongoDB, NPM
-
-
+# 🌐 About Me
+🌱 I started to improve myself with frontend.<br>
+✨ Since I am caught up in the magical world of Backend, I am improving myself in this direction as well.<br>
+✨ I am improving myself both in the field of react.js, especially Ssr & Csr, Optimization and SEO advantages, and on projects with next.js to add backend.<br>
+✨ I improved myself with node.js for a short time. It is among my plans to improve myself by doing projects in the Mern stack field. <br>
+✔️ I completed my Beginner level C# training because I was curious. I developed projects with Linq, SQL, Entity Framework<br>
+💻 During my enjoyable coding process, my goal is to improve myself first as front end and then as fullstack.
 
 <picture>
   <source
@@ -120,16 +123,9 @@
 </picture>
 
 
-
-## 🌐 Socials:
-
-###
-
-
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ozgeonline&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ozgeonline&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ozgeonline&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ozgeonline&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgeonline&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
