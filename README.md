@@ -62,27 +62,27 @@
       <td><a href="https://clone-netflix-one-tau.vercel.app/">Live Demo</a></td>
     </tr>
     <tr>
-      <td>#</td>
+      <td></td>
       <td><a href="#"></a></td>
       <td><a href=""></a></td>
     </tr>
      <tr>
-      <td>#</td>
+      <td></td>
       <td><a href="#"></a></td>
       <td><a href=""></a></td>
     </tr>
      <tr>
-      <td>#</td>
+      <td></td>
       <td><a href="#"></a></td>
       <td><a href=""></a></td>
     </tr>
     <tr>
-      <td>#</td>
+      <td></td>
       <td><a href="#"></a></td>
       <td><a href=""></a></td>
     </tr>
     <tr>
-      <td>#</td>
+      <td></td>
       <td><a href="#"></a></td>
       <td><a href=""></a></td>
     </tr>
