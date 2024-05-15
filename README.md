@@ -1,6 +1,6 @@
 
-    <table>
-      <thead>
+<table>
+    <thead>
         <tr>
           <th>#</th>
           <th class="head">Javascript Projects</th>
