@@ -1,30 +1,15 @@
-
 <table>
-    <thead>
-        <tr>
-          <th>#</th>
-          <th class="head">Javascript Projects</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td></td>
-          <td><a href="#">vanilla Javascript Projects</a></td>
-          <td><a href="https://ozgeonline.github.io/">Click for Projects</a></td>
-        </tr>
-      </tbody>
-  </table>
-
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th class="head">React & Next Projects</th>
-      <th>Live Demo</th>
-    </tr>
-  </thead>
   <tbody>
+    <tr>
+      <td>#</td>
+      <td><a href="#">vanilla Javascript Projects</a></td>
+      <td><a href="https://ozgeonline.github.io/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>#</td>
+      <td><a href="#">React & Next Projects</a></td>
+      <td><a href="#">Live Demo</a></td>
+    </tr>
     <tr>
       <td>01</td>
       <td><a href="#">Trendyol Clone (not finished yet)</a></td>
