@@ -8,7 +8,7 @@
     <tr>
       <td>#</td>
       <td><a href="#">React & Next Projects</a></td>
-      <td><a href="#">Live Demo</a></td>
+      <td><a href="#"></a></td>
     </tr>
     <tr>
       <td>01</td>
