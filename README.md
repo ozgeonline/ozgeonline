@@ -15,7 +15,7 @@
   </tbody>
 </table>
 
-###
+
 
 <table>
   <thead>
@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="#">GPT4</a></td>
+      <td><a href="#">GPT4 Themed UI Design</a></td>
       <td><a href="https://gpt-4-react-project.netlify.app/">Live Demo</a></td>
     </tr>
     <tr>
@@ -63,18 +63,18 @@
     </tr>
     <tr>
       <td>#</td>
-      <td><a href="#">Tenzies Game (not finished yet)</a></td>
-      <td><a href="https://ozgeonline.github.io/tenzies-game-react/">Live Demo</a></td>
+      <td><a href="#"></a></td>
+      <td><a href=""></a></td>
     </tr>
      <tr>
       <td>#</td>
-      <td><a href="#">Note App</a></td>
-      <td><a href="https://ozgeonline.github.io/to-do-list-spread-oprator/">Live Demo</a></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
      <tr>
       <td>#</td>
-      <td><a href="#">Travel Journal</a></td>
-      <td><a href="https://ozgeonline.github.io/travel-journal/">Live Demo</a></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
     <tr>
       <td>#</td>
@@ -83,8 +83,8 @@
     </tr>
     <tr>
       <td>#</td>
-      <td><a href="#">Dark & Light Toggle</a></td>
-      <td><a href="https://ozgeonline.github.io/my-app/">Live Demo</a></td>
+      <td><a href="#"></a></td>
+      <td><a href="">Live Demo</a></td>
     </tr>
     <tr>
       <td></td>
