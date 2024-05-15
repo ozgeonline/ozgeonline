@@ -69,22 +69,22 @@
      <tr>
       <td>#</td>
       <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
+      <td><a href=""></a></td>
     </tr>
      <tr>
       <td>#</td>
       <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td>#</td>
-      <td><a href="#">Meme Generator</a></td>
-      <td><a href="https://ozgeonline.github.io/meme-generator/">Live Demo</a></td>
+      <td><a href=""></a></td>
     </tr>
     <tr>
       <td>#</td>
       <td><a href="#"></a></td>
-      <td><a href="">Live Demo</a></td>
+      <td><a href=""></a></td>
+    </tr>
+    <tr>
+      <td>#</td>
+      <td><a href="#"></a></td>
+      <td><a href=""></a></td>
     </tr>
     <tr>
       <td></td>
