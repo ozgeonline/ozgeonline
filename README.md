@@ -1,21 +1,20 @@
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th class="head">Javascript Projects</th>
-      <th></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td><a href="#">vanilla Javascript Projects</a></td>
-      <td><a href="https://ozgeonline.github.io/">Click for Projects</a></td>
-    </tr>
-  </tbody>
-</table>
-
-
+<div class="flex">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th class="head">Javascript Projects</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td></td>
+          <td><a href="#">vanilla Javascript Projects</a></td>
+          <td><a href="https://ozgeonline.github.io/">Click for Projects</a></td>
+        </tr>
+      </tbody>
+  </table>
 
 <table>
   <thead>
@@ -86,23 +85,15 @@
       <td><a href="#"></a></td>
       <td><a href=""></a></td>
     </tr>
-    <tr>
-      <td></td>
-      <td><a href="#"></a></td>
-      <td><a href=""></a></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><a href="#"></a></td>
-      <td><a href=""></a></td>
-    </tr>
-     <tr>
-      <td></td>
-      <td><a href="#"></a></td>
-      <td><a href=""></a></td>
-    </tr>
   </tbody>
 </table>
+  
+</div>
+
+
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ozgeonline&icon=9&color=1)](https://visitcount.itsvg.in)
