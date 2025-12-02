@@ -9,14 +9,11 @@
   <a href="https://github.com/ozgeonline">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://medium.com/@zgeozge">
+  <a href="https://medium.com/@ozgeonline">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://twitter.com/ozgeonline0">
+  <a href="https://x.com/hellonlinecoder">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ozgeonline&icon=9&color=1" alt="Visitor Count"/>
   </a>
 </div>
 
@@ -67,8 +64,8 @@ I am a passionate developer currently focused on mastering the **Fullstack** uni
 | 02 | **GPT-4 UI Design** | React, CSS | ✅ | [Live](https://gpt-4-react-project.netlify.app/) |
 | 03 | **3D Portfolio** | React, Three.js | 🚧 | [Live](https://portfolio-react-three.netlify.app/) |
 | 04 | **3D iPhone 14** | React, Three.js | ✅ | [Live](https://3d-iphone14.netlify.app/) |
-| 05 | **Admin Dashboard** | React, MUI, Charts | ✅ | [Live](https://admin-dashboard-react-mui-chart.netlify.app/) |
-| 06 | **X (Twitter) Clone** | Next.js, Tailwind | ✅ | [Live](https://x-clone-ozgeonlines-projects.vercel.app/) |
+| 05 | **Admin Dashboard** | React, MUI, Charts | 🚧 | [Live](https://admin-dashboard-react-mui-chart.netlify.app/) |
+| 06 | **X (Twitter) Clone** | Next.js, Tailwind | 🚧 | [Live](https://x-clone-ozgeonlines-projects.vercel.app/) |
 | 07 | **Netflix Clone** | React, Firebase | ✅ | [Live](https://clone-netflix-one-tau.vercel.app/) |
 
 > *Check my [Repositories](https://github.com/ozgeonline?tab=repositories) for more Vanilla JS & CSS projects.*
@@ -78,32 +75,16 @@ I am a passionate developer currently focused on mastering the **Fullstack** uni
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozgeonline&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgeonline&layout=compact&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozgeonline&theme=midnight-purple&hide_border=true" alt="streak graph" />
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
-### 🧩 Random Zone
+<div align="center">🧩 Random Zone </div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Quote"/>
   <br><br>
-  <details>
-    <summary><b>Click to see a Random Dev Meme! 😂</b></summary>
-    <br>
-    <img src='https://randommeme-five.vercel.app/' style="max-height: 400px;"/>
-  </details>
 </div>
