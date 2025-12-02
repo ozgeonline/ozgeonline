@@ -25,10 +25,10 @@
 
 Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love turning complex designs into responsive, pixel-perfect code using React, Next.js, and TypeScript.
 
-🔭 Current Focus: Next.js Ecosystem, SEO Optimization, and UI/UX.
-⚙️ Architecture: Focusing on clean code, component reusability, and SEO-friendly structures.
-🎨 Creative Side: Creating 3D web experiences with Three.js.
-🛠 Backend Journey: Integration of Node.js and PostgreSQL into my workflow.
+🔭 Current Focus: Next.js Ecosystem, SEO Optimization, and UI/UX. <br>
+⚙️ Architecture: Focusing on clean code, component reusability, and SEO-friendly structures. <br>
+🎨 Creative Side: Creating 3D web experiences with Three.js. <br>
+🛠 Backend Journey: Integration of Node.js and PostgreSQL into my workflow. <br>
 
 
 ---
