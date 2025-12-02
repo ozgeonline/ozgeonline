@@ -34,19 +34,19 @@ Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love tur
   <tr>
     <td align="center" width="120"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,tailwind,bootstrap,mui,threejs" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,tailwind,bootstrap,mui,threejs,figma," />
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,postgres" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,postgres,mongodb,postman" />
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Tools & DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,figma,npm,yarn,vercel,netlify" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,npm,yarn,vite,vercel,netlify,supabase,babel" />
     </td>
   </tr>
 </table>
