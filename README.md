@@ -21,9 +21,7 @@
 
 ### 👩‍💻 About Me
 
-### 👩‍💻 About Me
-
-Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love turning complex designs into responsive, pixel-perfect code using React, Next.js, and TypeScript.
+Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love turning complex designs into responsive, pixel perfect code using React, Next.js, and TypeScript.
 
 🔭 Current Focus: Next.js Ecosystem, SEO Optimization, and UI/UX. <br>
 ⚙️ Architecture: Focusing on clean code, component reusability, and SEO-friendly structures. <br>
