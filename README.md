@@ -65,7 +65,7 @@ Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love tur
 | 06 | **X (Twitter) Clone** | Next.js, Tailwind | 🚧 | [Live](https://x-clone-ozgeonlines-projects.vercel.app/) |
 | 07 | **Netflix Clone** | React, Firebase | ✅ | [Live](https://clone-netflix-one-tau.vercel.app/) |
 
-> *Check my [Repositories](https://github.com/ozgeonline?tab=repositories) for more Vanilla JS & CSS projects.*
+> *Check my [Repositories](https://ozgeonline.github.io/) for more Vanilla JS & CSS projects.*
 
 ---
 
