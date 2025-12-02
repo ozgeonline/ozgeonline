@@ -21,13 +21,15 @@
 
 ### 👩‍💻 About Me
 
-I am a passionate developer currently focused on mastering the **Fullstack** universe. After building a strong foundation in **Frontend** technologies, I am now diving deep into the magical world of **Backend**.
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on **Next.js & React Projects (SSR/CSR Optimization)**
-- 🌱 I’m currently learning **Node.js, PostgreSQL and MERN Stack architecture**
-- 🎨 I have a keen interest in **3D Web** (Three.js) and UI/UX Design.
-- ⚙️ I have experience with **C# (Linq, Entity Framework, SQL)** from my backend journey.
-- ⚡ **Goal:** Transforming from a Frontend Specialist to a robust Fullstack Developer.
+Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love turning complex designs into responsive, pixel-perfect code using React, Next.js, and TypeScript.
+
+🔭 Current Focus: Next.js Ecosystem, SEO Optimization, and UI/UX.
+⚙️ Architecture: Focusing on clean code, component reusability, and SEO-friendly structures.
+🎨 Creative Side: Creating 3D web experiences with Three.js.
+🛠 Backend Journey: Integration of Node.js and PostgreSQL into my workflow.
+
 
 ---
 
@@ -82,7 +84,7 @@ I am a passionate developer currently focused on mastering the **Fullstack** uni
 
 ---
 
-<div align="center">🧩 Random Zone </div>
+### 🧩 Random Zone 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Quote"/>
