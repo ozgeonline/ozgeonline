@@ -22,6 +22,7 @@ Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love tur
 
 🔭 Current Focus: Next.js Ecosystem, SEO Optimization, and UI/UX. <br>
 ⚙️ Architecture: Focusing on clean code, component reusability, and SEO-friendly structures. <br>
+🤖 Exploring: I actively use Generative AI tools for high quality visual content creation and video synthesis <br>
 🎨 Creative Side: Creating 3D web experiences with Three.js. <br>
 🛠 Backend Journey: Integration of Node.js and PostgreSQL into my workflow. <br>
 
@@ -46,7 +47,7 @@ Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love tur
   <tr>
     <td align="center" width="120"><b>Tools & DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,figma,npm,yarn,vite,vercel,netlify,supabase,babel" />
+      <img src="https://skillicons.dev/icons?i=git,github,ai,figma,npm,yarn,vite,vercel,netlify,supabase,babel" />
     </td>
   </tr>
 </table>
