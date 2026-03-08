@@ -58,13 +58,14 @@ Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love tur
 
 | # | Project Name | Tech Stack | Status | Demo |
 | :-: | :--- | :--- | :-: | :-: |
-| 01 | **Trendyol Clone** | React, Sass | 🚧 | [Live](https://ozgeonline.github.io/trendyol-clone/) |
-| 02 | **GPT-4 UI Design** | React, CSS | ✅ | [Live](https://gpt-4-react-project.netlify.app/) |
+| 01 | **Netflix Clone** | React, Firebase | ✅ | [Live](https://clone-netflix-one-tau.vercel.app/) |
+| 02 | **Prompt Box** | React, CSS | ✅ | [Live](https://promptbox-online.vercel.app/) |
 | 03 | **3D Portfolio** | React, Three.js | 🚧 | [Live](https://portfolio-react-three.netlify.app/) |
 | 04 | **3D iPhone 14** | React, Three.js | ✅ | [Live](https://3d-iphone14.netlify.app/) |
 | 05 | **Admin Dashboard** | React, MUI, Charts | 🚧 | [Live](https://admin-dashboard-react-mui-chart.netlify.app/) |
 | 06 | **X (Twitter) Clone** | Next.js, Tailwind | 🚧 | [Live](https://x-clone-ozgeonlines-projects.vercel.app/) |
-| 07 | **Netflix Clone** | React, Firebase | ✅ | [Live](https://clone-netflix-one-tau.vercel.app/) |
+| 07 | **GPT-4 UI Design** | React, CSS | ✅ | [Live](https://gpt-4-react-project.netlify.app/) |
+| 08 | **Trendyol Clone** | React, Sass | 🚧 | [Live](https://ozgeonline.github.io/trendyol-clone/) |
 
 > *Check my [Repositories](https://ozgeonline.github.io/) for more Vanilla JS & CSS projects.*
 
