@@ -70,17 +70,6 @@ Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love tur
 
 > *Check my [Repositories](https://ozgeonline.github.io/) for more Vanilla JS & CSS projects.*
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozgeonline&theme=midnight-purple&hide_border=true" alt="streak graph" />
-</div>
-
-<br>
-
----
 
 ### 🧩 Random Zone 
 
