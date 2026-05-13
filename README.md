@@ -58,7 +58,7 @@ Hi! I'm a Frontend Developer deep-diving into the Fullstack universe. I love tur
 
 | # | Project Name | Tech Stack | Status | Demo |
 | :-: | :--- | :--- | :-: | :-: |
-| 01 | **Netflix Clone** | Next.js, Supabase | 🚧 | [Live](https://clone-netflix-one-tau.vercel.app/) |
+| 01 | **Netflix Clone** | Next.js, Supabase | 🚧 | [Live](https://nextjs-online-henna.vercel.app/tr-en) |
 | 02 | **Prompt Box** | React, Tailwind | ✅ | [Live](https://promptbox-online.vercel.app/) |
 | 03 | **Meals App** | Next.js, Tailwind | ✅ | [Live](https://meals-app-hazel-six.vercel.app/) |
 | 04 | **3D Portfolio** | React, Three.js | 🚧 | [Live](https://portfolio-react-three.netlify.app/) |
